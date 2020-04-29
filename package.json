@@ -9,11 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^2.0.3"
-  },
+  "devDependencies": {},
   "dependencies": {
     "express": "^4.17.1",
-    "signalfx-collect": "^1.0.4"
+    "signalfx-collect": "^1.0.4",
+    "nodemon": "^2.0.3"
   }
 }
